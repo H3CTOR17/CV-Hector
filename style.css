@@ -4,11 +4,11 @@
 .cv aside img {display:block;margin:0 auto;}
 .cv aside h2, .cv h1, .cv h3, .cv h4 {font-family: 'Montserrat', sans-serif;}
 .cv aside h2 {text-align:center;}
-.cv aside h2>span {color:#ff5335;}
+.cv aside h2>span {color:#5DADE2;}
 .cv aside h2:after {
   display:block;
   content:'|';
-  color:#ff5335;
+  color:#5DADE2;
   transform:rotate(-90deg) scale(1.6, 2);
   transform-origin: center;
   font-size:60px;
@@ -25,7 +25,7 @@
 .cv aside ul.info a:hover {text-decoration:none;}
 .cv aside ul.info a:hover i {background:#B83C26;}
 .cv aside ul.info a>i {
-  background:#ff5335;
+  background:#5DADE2;
   color:#fff;
   width:35px;
   height:35px;
@@ -63,4 +63,4 @@
   float:right;
   margin:0 1px;
 }
-.cv .skills section span.full {background:#ff5335;}
+.cv .skills section span.full {background:#5DADE2;}
